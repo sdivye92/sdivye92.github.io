@@ -1,6 +1,6 @@
 # Divye Singh - Personal Portfolio
 
-A Swiss/International style portfolio website with refined editorial design. Helvetica headings, Georgia serif body text, grid discipline, and a sidebar layout for clean information architecture.
+A Swiss/International style portfolio website with refined editorial design. Helvetica headings, Georgia serif body text, grid discipline and a sidebar layout for clean information architecture.
 
 ## Features
 
@@ -17,7 +17,7 @@ A Swiss/International style portfolio website with refined editorial design. Hel
 - 🔴 **Red Kicker Label** - Accent color for visual hierarchy
 - 📄 **Sidebar Layout** - Profile info always visible, inspired by editorial design
 - 🔄 **Auto-Fetched Articles** - Medium RSS feed automatically updates Writing page
-- 📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop
+- 📱 **Fully Responsive** - Optimized for mobile, tablet and desktop
 - 🏗️ **Multi-Page Structure** - Each section is its own HTML file for easy maintenance
 - ⚡ **No Build Process** - Pure HTML and CSS
 - 🚀 **GitHub Pages Ready** - Deploy instantly
